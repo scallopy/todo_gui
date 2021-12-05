@@ -1,4 +1,4 @@
-# todo_gui
+# Python Application with tkinter
 
 ## Getting Started
 
